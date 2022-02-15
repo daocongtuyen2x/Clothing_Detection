@@ -1,4 +1,4 @@
-# Clothing_Detection_With_Yolov5
+# Clothing Detection With Yolov5
 
 Simple training for clothing detection with Yolov5s, transfer learning is used for faster training and gaining better result.
 
